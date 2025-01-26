@@ -2,13 +2,10 @@
  * ============================================
  * EXAMEN TÉCNICO DE JAVASCRIPT - NIVEL AVANZADO
  * ============================================
- * Duración estimada: 90 minutos
  * 
  * Instrucciones:
- * 1. Completa todos los ejercicios en este mismo archivo
- * 2. No modificar las firmas de funciones proporcionadas
- * 3. Los comentarios con "//" indican consignas específicas
- * 4. ¡Buena suerte!
+ *  Completa todos los ejercicios en este mismo archivo
+ *  ¡Buena suerte!
  */
 
 // ===== SECCIÓN 1: CORRECCIÓN DE CÓDIGO =====
